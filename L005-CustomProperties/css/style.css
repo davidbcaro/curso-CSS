@@ -1,0 +1,16 @@
+/* Variables CSS - Custom Porperties */
+
+:root {
+    --color: rgb(39, 167, 77);
+}
+
+h1 {
+    /* color: blue; */
+    color: var(--color);
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    /* color: blue; */
+    color: var(--color);
+}

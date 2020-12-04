@@ -1,0 +1,53 @@
+/* Selectores */
+
+.title {
+    color: red;
+}
+
+.title2 {
+    color: navy;
+}
+
+p {
+    color: blue;
+}
+
+.description {
+    color: green;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.75em 2em;
+    background: navy;
+    color: white;
+    border-radius: .20em;
+}
+
+.button-d {
+    display: inline-block;
+    padding: 0.75em 2em;
+    background: rgb(255, 0, 85);
+    color: white;
+    border-radius: .20em;
+}
+
+.button-w {
+    display: inline-block;
+    padding: 0.75em 2em;
+    background: rgb(255, 217, 0);
+    color: white;
+    border-radius: .20em;
+}

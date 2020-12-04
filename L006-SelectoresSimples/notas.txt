@@ -1,0 +1,19 @@
+
+selector {
+    propiedad1: valor1; 
+    propiedad2: valor2; 
+}
+
+1. Selectores simples (una palabra)
+    h1 {}
+2. Selectores compuestos (más de una palabra)
+    h1 span {}
+3. Selectores con operadores
+    h1 + span
+4. Pseudoclases
+
+📝 Selectores simples 
+    - Son etiquetas HTML
+    - Se utilizan para normalizar o estandarizar los estilos en los navegadores
+    - Los estilos se aplican a todas las etiquetas de ese tipo
+    - Los estilos se sobreescriben y se aplica el último relacionado

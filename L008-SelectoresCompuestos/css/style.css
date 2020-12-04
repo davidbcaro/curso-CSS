@@ -1,0 +1,15 @@
+/* Selectores compuestos agrupados*/
+h1,p,h3,.button {
+    color: blue;
+}
+
+/* Selectores compuestos combinados*/
+h1.title {
+    color: rgb(63, 228, 63);
+}
+
+
+/* Selectores compuestos descendientes*/
+/* body span {
+    color: purple;
+} */

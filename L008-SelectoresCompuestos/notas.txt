@@ -1,0 +1,11 @@
+
+📝 Selectores compuestos agrupados
+    ✔️ Se utilizan para dar estilos a más de una etiqueta o clase
+    ✔️ Se separan por comas h1,p,.button,h2 {} sin espacios
+
+📝 Selectores compuestos combinados
+    ✔️ Se llama la etiqueta y la clase h1.title 
+
+📝 Selectores compuestos descendientes
+    ✔️ Se separan con un espacio
+

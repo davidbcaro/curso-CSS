@@ -1,0 +1,7 @@
+
+📝 Selectores de clases
+    - Se indican con punto y el nombre de la clase .title {}
+    - Permiten aplicar estilos independientes
+    - Los nombres de las clases no pueden empezar con número
+    - Pueden empezar con - o _ y contener :
+    - Los estilos no se sobreescriben 
